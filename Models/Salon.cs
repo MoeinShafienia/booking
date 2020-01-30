@@ -11,5 +11,4 @@ public class Salon
         public IEnumerable<Show> shows { get; set; }
 
         public IEnumerable<Ticket> tickets { get; set; }
-
     }

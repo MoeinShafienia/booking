@@ -15,5 +15,4 @@ public class Show
         public int salonId { get; set; }
 
         public IEnumerable<Ticket> tickets { get; set; }
-
     }
